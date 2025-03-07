@@ -75,10 +75,16 @@ myAssets.add(new Vehicle("03/10/2023", "Family car", 35000.00, "Honda Accord", 2
 
 ---
 
-## 🎯 Future Enhancements
-✅ Add GUI for better user experience 🎨  
-✅ Implement database storage (MySQL, PostgreSQL) 🗄  
-✅ Add user authentication for asset management 🔐  
+## ✨ Crediting & Publishing
+
+If you use or modify this project:  
+✔️ **Give credit** by mentioning the original project in your repository.  
+✔️ **Feel free to fork** and customize for your own needs.  
+✔️ **Publish improvements** and contribute back to the community!  
+
+If you plan to **publish** your own version, please:  
+📌 Include an acknowledgment to this original repository.  
+📌 Clearly document any modifications or enhancements you've made. 
 
 ---
 
