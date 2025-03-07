@@ -24,7 +24,10 @@ public abstract class Asset { // Changed to abstract class as per exercise
         this.originalCost = originalCost;
     }
 
+    andiam
+
     /**
+    andia
      * @return The description of the asset
      */
     public String getDescription() {
