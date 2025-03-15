@@ -22,13 +22,7 @@ Welcome to the **Asset Management System**, a Java application that helps manage
 
 ## 📸 Screenshots
 
-📷 *Add your project screenshots here!*  
-To include screenshots, upload them to your GitHub repository and reference them like this:  
-
-```markdown
-![Screenshot 1](path_to_image1.png)
-![Screenshot 2](path_to_image2.png)
-```
+<img src="https://github.com/user-attachments/assets/2cbc425e-2e8d-4ce7-b44d-18de122e5a22" alt="Screenshot 2025-03-15 at 12 23 58 PM" width="700" height="470">
 
 ---
 
